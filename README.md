@@ -83,7 +83,7 @@ Slot 3: Empty
 Enter your choice: 3
 Enter Vehicle Number to Remove: ABC123
 Vehicle ABC123 removed from Slot 1
-Total Hours Parked: 2 | Parking Fee: $20.0
+Total Hours Parked: 2 | Parking Fee: ₹20.0
 
 Future Enhancements
 	•	Add a GUI using Java Swing or JavaFX for better user experience.
